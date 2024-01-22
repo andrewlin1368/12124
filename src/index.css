@@ -1,0 +1,70 @@
+/* body {
+  font-family: Georgia, serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+#logo-image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Add your own custom styles here */
+
+/* img {
+  height: 200px;
+  width: 200px;
+} */
+
+.bookBody {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+}
+
+img {
+  height: 400px;
+}
+
+.form {
+  width: 50%;
+  display: grid;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.form button {
+  width: 30%;
+  margin: auto;
+}
+
+.loginPage {
+  display: grid;
+  justify-items: center;
+}
+
+.singleBookBody {
+  padding: 5%;
+  text-align: center;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.sImg,
+.sBody {
+  display: inline-block;
+  padding: 2%;
+}
+
+.singleBookPage {
+  display: grid;
+  justify-items: center;
+}
+
+.sImg img {
+  height: 500px;
+  width: 350px;
+}
